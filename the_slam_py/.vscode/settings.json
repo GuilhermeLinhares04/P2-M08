@@ -1,0 +1,19 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/linhares1111/the_ws/install/jarc/lib/python3.10/site-packages",
+        "/home/linhares1111/the_ws/install/cg_interfaces/local/lib/python3.10/dist-packages",
+        "/home/linhares1111/cg/install/cg/lib/python3.10/site-packages",
+        "/home/linhares1111/cg/install/cg_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/linhares1111/the_ws/install/jarc/lib/python3.10/site-packages",
+        "/home/linhares1111/the_ws/install/cg_interfaces/local/lib/python3.10/dist-packages",
+        "/home/linhares1111/cg/install/cg/lib/python3.10/site-packages",
+        "/home/linhares1111/cg/install/cg_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "ros.distro": "humble"
+}
