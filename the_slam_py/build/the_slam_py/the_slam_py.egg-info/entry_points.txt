@@ -1,0 +1,3 @@
+[console_scripts]
+shazam = the_slam_py.shazam:main
+

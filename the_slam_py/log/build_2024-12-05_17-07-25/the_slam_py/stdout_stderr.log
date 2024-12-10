@@ -1,0 +1,36 @@
+running egg_info
+creating build/the_slam_py/the_slam_py.egg-info
+writing build/the_slam_py/the_slam_py.egg-info/PKG-INFO
+writing dependency_links to build/the_slam_py/the_slam_py.egg-info/dependency_links.txt
+writing entry points to build/the_slam_py/the_slam_py.egg-info/entry_points.txt
+writing requirements to build/the_slam_py/the_slam_py.egg-info/requires.txt
+writing top-level names to build/the_slam_py/the_slam_py.egg-info/top_level.txt
+writing manifest file 'build/the_slam_py/the_slam_py.egg-info/SOURCES.txt'
+reading manifest file 'build/the_slam_py/the_slam_py.egg-info/SOURCES.txt'
+writing manifest file 'build/the_slam_py/the_slam_py.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/linhares1111/the_ws/src/the_slam_py/build/the_slam_py/build
+creating /home/linhares1111/the_ws/src/the_slam_py/build/the_slam_py/build/lib
+creating /home/linhares1111/the_ws/src/the_slam_py/build/the_slam_py/build/lib/the_slam_py
+copying the_slam_py/shazam.py -> /home/linhares1111/the_ws/src/the_slam_py/build/the_slam_py/build/lib/the_slam_py
+copying the_slam_py/__init__.py -> /home/linhares1111/the_ws/src/the_slam_py/build/the_slam_py/build/lib/the_slam_py
+running install
+running install_lib
+creating /home/linhares1111/the_ws/src/the_slam_py/install/the_slam_py/lib/python3.10/site-packages/the_slam_py
+copying /home/linhares1111/the_ws/src/the_slam_py/build/the_slam_py/build/lib/the_slam_py/shazam.py -> /home/linhares1111/the_ws/src/the_slam_py/install/the_slam_py/lib/python3.10/site-packages/the_slam_py
+copying /home/linhares1111/the_ws/src/the_slam_py/build/the_slam_py/build/lib/the_slam_py/__init__.py -> /home/linhares1111/the_ws/src/the_slam_py/install/the_slam_py/lib/python3.10/site-packages/the_slam_py
+byte-compiling /home/linhares1111/the_ws/src/the_slam_py/install/the_slam_py/lib/python3.10/site-packages/the_slam_py/shazam.py to shazam.cpython-310.pyc
+byte-compiling /home/linhares1111/the_ws/src/the_slam_py/install/the_slam_py/lib/python3.10/site-packages/the_slam_py/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/linhares1111/the_ws/src/the_slam_py/install/the_slam_py/share/ament_index
+creating /home/linhares1111/the_ws/src/the_slam_py/install/the_slam_py/share/ament_index/resource_index
+creating /home/linhares1111/the_ws/src/the_slam_py/install/the_slam_py/share/ament_index/resource_index/packages
+copying resource/the_slam_py -> /home/linhares1111/the_ws/src/the_slam_py/install/the_slam_py/share/ament_index/resource_index/packages
+copying package.xml -> /home/linhares1111/the_ws/src/the_slam_py/install/the_slam_py/share/the_slam_py
+creating /home/linhares1111/the_ws/src/the_slam_py/install/the_slam_py/share/the_slam_py/launch
+running install_egg_info
+Copying build/the_slam_py/the_slam_py.egg-info to /home/linhares1111/the_ws/src/the_slam_py/install/the_slam_py/lib/python3.10/site-packages/the_slam_py-0.0.0-py3.10.egg-info
+running install_scripts
+Installing shazam script to /home/linhares1111/the_ws/src/the_slam_py/install/the_slam_py/lib/the_slam_py
+writing list of installed files to '/home/linhares1111/the_ws/src/the_slam_py/build/the_slam_py/install.log'
